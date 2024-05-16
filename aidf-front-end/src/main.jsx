@@ -22,7 +22,7 @@ const router= createBrowserRouter([
           element: <HomePage/>
         },
         {
-          path: '/jobs',
+          path: '/jobs/:id',
           element: <JobPage/>
         },
       ]
