@@ -17,6 +17,8 @@ import {
 
 import { Button } from "@/components/ui/button"
 import Hero from "./components/Hero.jsx"
+import JobSection from "./components/JobSection.jsx"
+
 function home() {
  
   return (
@@ -24,6 +26,7 @@ function home() {
     <main>
       <div className="container">
        <Hero/>
+       <JobSection/>
 
        </div>
        </main>
