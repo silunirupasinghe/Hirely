@@ -24,7 +24,9 @@ function JobSection(){
             32.33
             <JobCard  _id={"xyz"} title={"Software Engineer"} type={"Full-Time"} location={"Colombo, Sri Lanka"} />
             <JobCard _id={"pqy"} title={"Software Engineering Intern"} type={"Remote"} location={"Hikkaduwa, Sri Lanka"} />
-            
+            {
+                
+            }
         </section>
     )
 }
